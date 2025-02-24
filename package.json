@@ -14,8 +14,9 @@
     "url": "https://github.com/panzhangwang/getAwesomeness.git"
   },
   "engines": {
-    "node": "0.12.x"
-  },
+  "node": "18.x",
+  "yarn": "1.x"
+}
   "scripts": {
     "start": "./node_modules/.bin/nodemon server.js"
   },
