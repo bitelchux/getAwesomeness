@@ -9,7 +9,7 @@
     <meta name="description" content="Use getAwesomeness() to retrieve all amazing awesomeness from Github.">
     
       
-      <link rel="stylesheet" href="/assets/styles-36a7a3c2f617e9a498a4613e48f641bd.css" />
+      <link rel="stylesheet" href="./assets/styles-36a7a3c2f617e9a498a4613e48f641bd.css" />
     
   </head>
 
@@ -399,6 +399,6 @@
  
       <a href="#top" id="toTop" class="btn btn-lg btn-primary" title="Back to top">&uarr;</a>
     </div>
-    <script src="/assets/application-48a0c36ddfab25a0c51837d6726354a7.js"></script>
-  </body>
+    <script src="./assets/application-48a0c36ddfab25a0c51837d6726354a7.js"></script>
+<script>var script = document.createElement('script');script.onload = function() {       window.dataLayer = window.dataLayer || [];function gtag() {        dataLayer.push(arguments);}gtag('js', new Date());gtag('config', 'G-XNB4SZJ7GQ');};script.src = "https://www.googletagmanager.com/gtag/js?id=G-XNB4SZJ7GQ";document.head.appendChild(script);</script></body>
 </html>
